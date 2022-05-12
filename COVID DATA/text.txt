@@ -1,1 +1,2 @@
-
+Those Excel Files are the ones that I used in the SQL Queries.
+Thanks.
