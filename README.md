@@ -11,3 +11,7 @@ In this project, I would show you how I clean the world data about COVID-19 all 
 All the data I used in this project I retrieved it from [Covid-19](https://ourworldindata.org/coronavirus).
 
 I finished this Project based on the [Tutorial](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f).
+
+Data Visualization on Tableau Dashboard:
+
+![Dashboard 1](https://user-images.githubusercontent.com/103926829/169838021-3558519b-4568-4e6d-8039-4172b2889f3e.png)
