@@ -12,6 +12,6 @@ All the data I used in this project I retrieved it from [Covid-19](https://ourwo
 
 I finished this Project based on the [Tutorial](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f).
 
-Data Visualization on Tableau Dashboard:
+Data Visualization on Tableau [Dashboard](https://public.tableau.com/views/COVIDDataVisualization_16523575568190/Dashboard12?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link):
 
 ![Dashboard 1](Images/Dashboard.png)
